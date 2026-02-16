@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あいあいがさ",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-16T08:04:14.963857Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいあいがさ",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_あいあいがさ_HACHI.txt"
+    }
+  ]
+}
